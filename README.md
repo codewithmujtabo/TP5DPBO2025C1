@@ -1,5 +1,8 @@
 # Database Mahasiswa
 
+## Janji
+Saya Mujtabo Saidamirzoda dengan NIM 2313366 mengerjakan soal Tugas Praktikum 5 dalam mata kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin!!!
+
 ## Deskripsi Program
 Program ini merupakan aplikasi berbasis Java yang terhubung ke database MySQL untuk mengelola data mahasiswa. Program ini menyediakan fitur untuk membaca (SELECT), menambah (INSERT), memperbarui (UPDATE), dan menghapus (DELETE) data mahasiswa dari database.
 
@@ -26,3 +29,4 @@ Program ini menggunakan JDBC (Java Database Connectivity) untuk berkomunikasi de
 
 ## Hasil
 [Screen Recording 2025-03-30 at 20.58.11.mov](Screen%20Recording%202025-03-30%20at%2020.58.11.mov)
+![Screenshot 2025-03-30 at 21.05.47.png](Screenshot%202025-03-30%20at%2021.05.47.png)
